@@ -1,1 +1,0 @@
-# training-bocal-academy-js
